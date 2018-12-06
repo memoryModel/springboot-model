@@ -5,7 +5,7 @@ public class Student {
 
     private String name; // 学生名称
 
-    private Integer age;
+    private Integer age; // 学生年龄
 
     public Integer getId() {
         return id;
