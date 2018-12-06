@@ -1,9 +1,9 @@
 package com.mac.springbootjdbc.model.student;
 
 public class Student {
-    private Integer id;
+    private Integer id; // 学生id
 
-    private String name;
+    private String name; // 学生名称
 
     private Integer age;
 
