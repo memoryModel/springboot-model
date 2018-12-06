@@ -7,6 +7,8 @@ public class Student {
 
     private Integer age; // 学生年龄
 
+    private String studentNo;   // 学号
+
     public Integer getId() {
         return id;
     }
